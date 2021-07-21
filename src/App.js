@@ -1,10 +1,8 @@
 import React from 'react'
-
+import Resturant from './component/Basicss/Resturant'
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <Resturant/>
   )
 }
 
